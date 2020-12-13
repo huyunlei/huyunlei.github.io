@@ -355,7 +355,8 @@ td {
   text-align: center;
 }
 .site-header .site-title {
-  font-size: 32px;
+  color: #c7c3a8;
+  font-size: 24px;
   font-weight: bold;
 }
 .site-header .site-description {
