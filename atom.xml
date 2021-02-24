@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huyunlei.github.io</id>
-    <title>扶竹</title>
-    <updated>2021-02-24T01:59:29.492Z</updated>
+    <title>猫爪</title>
+    <updated>2021-02-24T02:16:47.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huyunlei.github.io"/>
     <link rel="self" href="https://huyunlei.github.io/atom.xml"/>
-    <subtitle>cater customers need🎉 </subtitle>
+    <subtitle>软硬件，建模动画设计  欢迎骚扰 🎉 </subtitle>
     <logo>https://huyunlei.github.io/images/avatar.png</logo>
     <icon>https://huyunlei.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 扶竹</rights>
+    <rights>All rights reserved 2021, 猫爪</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://huyunlei.github.io/post/hello-gridea/</id>
