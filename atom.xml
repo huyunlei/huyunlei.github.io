@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huyunlei.github.io</id>
     <title>设计HU</title>
-    <updated>2021-03-04T10:50:18.265Z</updated>
+    <updated>2021-03-04T10:51:16.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huyunlei.github.io"/>
     <link rel="self" href="https://huyunlei.github.io/atom.xml"/>
-    <subtitle>考研，软硬件，建模动画，深度学习  欢迎骚扰 🎉 </subtitle>
+    <subtitle>专业课，软硬件，建模动画，深度学习  欢迎骚扰 🎉 </subtitle>
     <logo>https://huyunlei.github.io/images/avatar.png</logo>
     <icon>https://huyunlei.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 设计HU</rights>
