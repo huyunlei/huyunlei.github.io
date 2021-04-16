@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huyunlei.github.io</id>
-    <title>3Q</title>
-    <updated>2021-04-16T13:28:08.062Z</updated>
+    <title></title>
+    <updated>2021-04-16T13:32:18.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huyunlei.github.io"/>
     <link rel="self" href="https://huyunlei.github.io/atom.xml"/>
-    <subtitle>不知名小队 🎉 </subtitle>
     <logo>https://huyunlei.github.io/images/avatar.png</logo>
     <icon>https://huyunlei.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 3Q</rights>
+    <rights>All rights reserved 2021, </rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://huyunlei.github.io/post/hello-gridea/</id>
